@@ -4,6 +4,6 @@ import org.junit.*;
 public class sdotest {
     @Test
     public void subtraction() {
-        assertEquals(2, sdo.subtraction(5, 1)); 
+        assertEquals(4, sdo.subtraction(5, 1)); 
     }
 }
